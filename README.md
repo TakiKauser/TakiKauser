@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | React | C++ | Python | MERN  
-- 🌐 &nbsp; Full-Stack | React  | JavaScript | HTML | CSS | Bootstrap | Tailwind 
+- 💻 &nbsp; JavaScript | React | C++ | Python  
+- 🌐 &nbsp; MERN | HTML | CSS | Bootstrap | Tailwind 
 - 🛢 &nbsp; MySQL | NoSQL | PostgreSQL | Firebase | Postman
 - 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Figma
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakiKauser&layout=compact&text_color=darkrod&bg_color=teal)](https://github.com/TakiKauser/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakiKauser&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/TakiKauser/github-readme-stats)
 
 
 
