@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h1> I'm Taki Kauser 👋 </h1>
 <h2> A Passionate Learner from Bangladesh </h2>
+<h4> Learning Redux and TypeScript </h4>
 
 <h3>🛠 Tech Stack</h3>
 
